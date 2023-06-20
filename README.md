@@ -15,19 +15,19 @@ This will download the 10-K filings for all the companies in the S&P 500 for the
 
 
 
-#Data
+##Data
 The data is stored in a file called cik_year.rds. This file is a compressed R data file and can be loaded into R using the loadRDS() function.
 
 
-#Analysis
+##Analysis
 The data can be analyzed using a variety of R packages. For example, the dplyr package can be used to clean and transform the data, and the ggplot2 package can be used to visualize the data.
 
 
-#Contributing
+##Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 
-<!-- #License
+##License
 This project is licensed under the MIT License. -->
 
 

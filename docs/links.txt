@@ -1,0 +1,6 @@
+R package for interacting with the SEC's EDGAR filing search and retrieval system
+https://github.com/mwaldstein/edgarWebR
+
+
+Tool for the U.S. SEC EDGAR Retrieval and Parsing of Corporate Filings
+https://github.com/Gunratan/edgar

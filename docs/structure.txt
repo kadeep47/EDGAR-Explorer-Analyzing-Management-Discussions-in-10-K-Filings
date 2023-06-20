@@ -1,0 +1,12 @@
+- project_name/
+    - data/
+        - filing_data/
+            - 10K_filings/            # Store downloaded 10-K filings here
+        - processed_data/             # Store processed data here
+    - code/
+        - data_collection/            # Code for downloading filings
+        - data_processing/            # Code for parsing and extracting data
+        - analysis/                   # Code for analyzing and visualizing data
+    - notebooks/                      # Jupyter notebooks for exploratory analysis
+    - docs/                           # Documentation, project reports, etc.
+    - README.md                       # Project overview, instructions, and details
